@@ -16,7 +16,7 @@ Built with **Node.js + Express + MongoDB + EJS**, plus **Cloudinary** for image 
   - Only review author can delete a review
 - ✅ Mapbox Geocoding: converts location to coordinates and shows on map
 - ✅ Flash messages + Sessions (stored in Mongo via connect-mongo)
-
+  
 ## Tech Stack
 **Backend:** Node.js, Express, MongoDB, Mongoose  
 **Frontend:** EJS, Bootstrap, CSS  
