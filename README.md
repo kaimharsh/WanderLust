@@ -29,3 +29,18 @@ Built with **Node.js + Express + MongoDB + EJS**, plus **Cloudinary** for image 
 - MongoDB (local) OR MongoDB Atlas
 - Cloudinary account
 - Mapbox account
+- 
+## How to Use (App Guide)
+1. Open the app and browse listings.
+2. Create an account via Signup.
+3. Click Airbnb your home / Add Listing to create a new stay:
+  - add title, description, price, location, country
+  - upload an image
+4. Open a listing to:
+  - view map location
+  - add a review & rating
+5. If you are the owner/author, you can edit/delete your listing/review.
+
+## Author
+Harsh Sen
+GitHub: https://github.com/kaimharsh
